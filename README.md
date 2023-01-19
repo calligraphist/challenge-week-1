@@ -15,7 +15,6 @@ Refactored some div elements to semantic HTML elements.
 Re-identified style selectors accordingly.
 Added web page title.
 Added alt attributes to images to improve search engine optimization.
-Remove footer to match given page layout.
 
 ## Contributions
 Code refactoring is done by Sehar.
