@@ -6,7 +6,8 @@ This page features a banner and three main sections and a sidebar. The page is a
 2. Contributions
 3. Deployed Page
 4. page layout image
-5. 
+5. user story
+6. acceptance criteria
 
 ## Refactor Comments
 Added comments to index.html and style.css to facilitate refactoring.
@@ -14,6 +15,7 @@ Refactored some div elements to semantic HTML elements.
 Re-identified style selectors accordingly.
 Added web page title.
 Added alt attributes to images to improve search engine optimization.
+Remove footer to match given page layout.
 
 ## Contributions
 Code refactoring is done by Sehar.
