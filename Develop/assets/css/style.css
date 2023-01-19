@@ -16,14 +16,14 @@ body {
 }
 
 .header h1 {
-    display: inline;
+    display: inline-block;
     font-size: 48px;
 }
 
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* div to header*/
 .header header {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,12 +31,11 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* div to nav*/
 .header nav ul {
-    list-style-type: none;;
-    float: inline-end;
+    list-style-type: none;
 }
-
+/* div to nav*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;

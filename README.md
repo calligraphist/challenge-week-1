@@ -12,10 +12,8 @@ This page features a banner and three main sections and a sidebar. The page is a
 Added comments to index.html and style.css to facilitate refactoring.
 Refactored some div elements to semantic HTML elements.
 Re-identified style selectors accordingly.
-Removed unnecessary class attributes.
 Added web page title.
-Added alt attributes to images to improve SEO.
-Fixed an issue with text overflow upon resizing browser.
+Added alt attributes to images to improve search engine optimization.
 
 ## Contributions
 Code refactoring is done by Sehar.
