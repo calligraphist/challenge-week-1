@@ -1,4 +1,23 @@
-# 01 HTML, CSS, and Git: Code Refactor
+## Project Description
+This page features a banner and three main sections and a sidebar. The page is a navigational header and a footer. Semantic HTML and image alt attributes are applied to enhance accessabilty and increase Search Engine Optimization.
+
+## Contents
+1. Refactor Comments
+2. Contributions
+3. Deployed Page
+
+## Refactor Comments
+Added comments to index.html and style.css to facilitate refactoring.
+Refactored select div elements to semantic HTML elements.
+Re-identified style selectors accordingly.
+Removed unnecessary class attributes.
+Added web page title.
+Added alt attributes to images to improve SEO.
+Fixed an issue with text overflow upon resizing browser.
+
+## Contributions
+Code refactoring is done by Sehar.
+Horiseon web page provided by UNB bootcamp.
 
 ## User Story
 
@@ -23,8 +42,11 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+## deployment
 
-## Mock-Up
+
+
+## page layout
 
 The following image shows the web application's appearance and functionality:
 
