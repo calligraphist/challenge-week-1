@@ -5,10 +5,12 @@ This page features a banner and three main sections and a sidebar. The page is a
 1. Refactor Comments
 2. Contributions
 3. Deployed Page
+4. page layout image
+5. 
 
 ## Refactor Comments
 Added comments to index.html and style.css to facilitate refactoring.
-Refactored select div elements to semantic HTML elements.
+Refactored some div elements to semantic HTML elements.
 Re-identified style selectors accordingly.
 Removed unnecessary class attributes.
 Added web page title.
