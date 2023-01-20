@@ -44,7 +44,9 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 ## deployment
+following is the link to the deployment page:
 
+https://calligraphist.github.io/challenge-week-1/Develop/
 
 
 ## page layout
